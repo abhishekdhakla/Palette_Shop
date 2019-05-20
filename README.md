@@ -1,1 +1,3 @@
-# Palette_Shop
+A fully integrated React application that allows users to create a portfolio of color palettes, keep track of them and update/change the existing ones. Managing color schemes for any project is often a critical task and this app helps to make it easier. Equipped with a seamless design and tons of features, it’s just the app you need when faced with the critical question, sky blue or cyan?
+
+Author: Abhishek Dhakla (2019)
